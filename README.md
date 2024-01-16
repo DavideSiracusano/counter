@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
-  un semplice counter usando HTML, CSS E JS (c`è un piccolo ester egg se siete pazienti! 👀
+  un semplice counter usando HTML, CSS E JS (c`è un piccolo easter egg se siete pazienti! 👀
 </td>
 </tr>
 </table>
