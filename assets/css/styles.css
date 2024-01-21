@@ -10,25 +10,26 @@ body {
   background-repeat: no-repeat;
 }
 
-h1 {
+#counter {
   font-family: "Bungee Spice", sans-serif;
-
   font-weight: bold;
+  font-size: 50px;
+  height: 100px;
 }
 
-h2 {
+#start-number {
   font-family: "Bungee Spice", sans-serif;
   font-size: 100px;
 }
 
 @media screen and (max-width: 700px) {
-  h2 {
+  #start-number {
     font-family: "Bungee Spice", sans-serif;
     font-size: 50px;
   }
 }
 
-#numbers #decrease-number {
+#decrease-number {
   margin-right: 20px;
   background-image: linear-gradient(to right, crimson, blueviolet);
   color: aliceblue;
@@ -38,7 +39,7 @@ h2 {
   padding: 10px;
 }
 
-#numbers #increase-number {
+#increase-number {
   background-image: linear-gradient(to right, blueviolet, crimson);
   color: aliceblue;
   border-radius: 12px;
